@@ -1,0 +1,20 @@
+{
+  "name": "gif-search",
+  "version": "1.0.0",
+  "description": "gif search project",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MykeSelivanov/gif-search.git"
+  },
+  "scripts": {
+    "start": "app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Myke Selivanov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2"
+  }
+}
